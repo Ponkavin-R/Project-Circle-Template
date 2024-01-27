@@ -12,6 +12,7 @@ window.addEventListener('load', function () {
     document.getElementById("Distribute").style = "display:none";
     document.getElementById("Collect").style = "display:none";
     document.getElementById("Analyze").style = "display:none";
+    document.getElementById("1").style = "color:#1CBBC7;border-bottom: 6px solid";
 });
 
 function Distribute() {
